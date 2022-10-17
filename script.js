@@ -163,7 +163,7 @@ function ponerVerbo(){
     showVerb.innerHTML = verbs[randomPosition];
     showImage.innerHTML = imgText;
 
-    showAudio.src = "audio/"+verbs[randomPosition]+".mp3";
+    showAudio.src = "./audio/"+verbs[randomPosition]+".mp3";
     showAudio.play();
 
     first.innerHTML = !answerRoullete[0]?verbos[randomPosition]:verbos[randomVerbo(randomPosition)];
