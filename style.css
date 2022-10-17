@@ -35,6 +35,10 @@
   border: 1px solid blue;
 }
 
+#showAudio{
+  display: none;
+}
+
 #pie{
   background-color: #0dcaf0;
   position: absolute;
