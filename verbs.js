@@ -3,6 +3,13 @@
 // ***************************************************
 
 const verbs = [
+  'Copy',
+  'Smile',
+  'Save',
+  'Download',
+  'Write',
+  'Install',
+  'Fix',
   'Open',
   'Accept',
   'Love',
@@ -87,6 +94,13 @@ const verbs = [
 ];
 
 const verbos = [
+  'Copiar',
+  'Sonreir',
+  'Guardar',
+  'Descargar',
+  'Escribir',
+  'Instalar',
+  'Reparar',
   'Abrir',
   'Aceptar',
   'Amar',
