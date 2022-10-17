@@ -35,6 +35,9 @@
   border: 1px solid blue;
 }
 
+#playAudio{
+  display:none;
+}
 
 #pie{
   background-color: #0dcaf0;
