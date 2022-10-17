@@ -145,7 +145,7 @@ function ponerVerbo(){
   answerRoullete = shuffleAnswers(answerRoullete);
 
   let randomPosition = everyNumberOfVerbs[lastPosition];
-  let imgText = "<img src='../img/"+verbs[randomPosition]+".jpg' height:'140px' width='100px'>";
+  let imgText = "<img src='./img/"+verbs[randomPosition]+".jpg' height:'140px' width='100px'>";
 
   // ===================================
   // Adding style to the answers buttons
